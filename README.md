@@ -53,8 +53,8 @@ I'm always open to collaboration, feedback, and discussions about programming an
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: C, C++, Python
-- **Libraries**: MLX, Libft (custom C library from 42)
+- **Languages**: C
+- **Libraries**: Libft (custom C library from 42)
 - **Tools**: Git, VSCode, Valgrind
 
 ---
