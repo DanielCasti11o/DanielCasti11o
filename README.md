@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel Castillo! 👋
 
-![42 Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="150">
 
 ## 🚀 About Me
 
@@ -69,8 +69,3 @@ Here are some of the technologies and tools I work with:
 
 Thanks for visiting! Let's build something amazing together. 🚀
 
-
-<!---
-DanielCasti11o/DanielCasti11o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
