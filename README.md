@@ -18,14 +18,6 @@ I thrive on tackling challenging projects and learning through hands-on experien
 - 🖥️ Understanding computer graphics basics.
 - 🔧 Leveraging the MLX library for graphical output.
 
-### 🛠️ Goals for FDF:
-
-- Render 3D wireframe maps with proper projection.
-- Add features like rotation, zoom, and color schemes.
-- Ensure smooth navigation and interaction.
-
-Stay tuned for updates on this project! I'll be sharing progress, challenges, and insights as I go.
-
 ---
 
 ## 🏗️ 42 Projects
@@ -40,14 +32,6 @@ Each project has helped me develop skills in C programming, algorithm optimizati
 
 ---
 
-## 📫 Let's Connect
-
-- **GitHub**: [DanielCasti11o](https://github.com/DanielCasti11o)
-- **42 Intra**: dacastil
-
-I'm always open to collaboration, feedback, and discussions about programming and technology. Feel free to reach out!
-
----
 
 ## 🛠️ Tech Stack
 
