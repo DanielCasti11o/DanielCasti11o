@@ -10,15 +10,8 @@ I thrive on tackling challenging projects and learning through hands-on experien
 
 ---
 
-## 🌟 Current Project: FDF
+## 🌟 Current Project: PIPEX
 
-**FDF** is a 3D wireframe viewer. This project focuses on:
-
-- 📊 Visualizing 3D landscapes from 2D maps.
-- 🖥️ Understanding computer graphics basics.
-- 🔧 Leveraging the MLX library for graphical output.
-
----
 
 ## 🏗️ 42 Projects
 
