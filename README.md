@@ -6,17 +6,23 @@
 
 Welcome to my GitHub! I'm a student at **42**, an innovative programming school where creativity, collaboration, and problem-solving take the front seat. My GitHub username is **DanielCasti11o**, and my 42 login is **dacastil**.
 
-I thrive on tackling challenging projects and learning through hands-on experience. Currently, I'm diving into the fascinating world of **computer graphics** with my project **FDF**.
+I thrive on tackling challenging projects and learning through hands-on experience. Currently, I'm collaborating with [sbolivar](https://github.com/s-bolivar) on exciting projects like **Philosophers** and **Minishell**. Previously, I worked on **FDF** and **Pipex**, exploring computer graphics and system-level programming.
 
 ---
 
-## 🌟 Current Project: PIPEX
+## 🌟 Current Projects
 
+- **Philosophers**: Exploring concurrency and synchronization in C.
+- **Minishell**: Building a simple shell with command execution and pipes.
+
+---
 
 ## 🏗️ 42 Projects
 
 Some of the projects I've worked on so far include:
 
+- **Pipex**: Simulating the behavior of shell pipes.
+- **FDF**: Visualizing wireframe models with 3D projections.
 - **Push_swap**: Optimizing sorting algorithms for stacks.
 - **Get_next_line**: Reading lines from a file efficiently.
 - **ft_printf**: Recreating the functionality of the standard `printf`.
