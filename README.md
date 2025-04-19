@@ -27,7 +27,7 @@ I thrive on tackling challenging projects and learning through hands-on experien
 |------------------|------------------------------------------------------------------------------------------|
 | **Pipex**        | Simulates the behavior of pipes in a shell, managing input and output between processes.  |
 | [**FDF**](https://github.com/DanielCasti11o/FDF-42)           | Visualizes 3D models using projections and graphical algorithms like Bresenham's.          |
-| **Push_swap**    | Optimizes sorting algorithms for stacks, working with custom structures and operations.   |
+| [**Push_swap**](https://github.com/DanielCasti11o/Push_Swap-42)    | Optimizes sorting algorithms for stacks, working with custom structures and operations.   |
 | [**Get_next_line**](https://github.com/DanielCasti11o/GNL) | Efficiently reads lines from a file, with dynamic memory management.                      |
 | **ft_printf**    | Reimplements the functionality of the standard `printf` function, handling conversions and flags. |
 
