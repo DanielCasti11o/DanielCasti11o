@@ -36,7 +36,7 @@ Each project has helped me develop skills in C programming, algorithm optimizati
 ---
 
 
-##  <img src="https://64.media.tumblr.com/bd172c9b6928e5b148be37d5a13e739a/tumblr_oewz56k4d21tgk8beo1_400.gif" alt="Intro GIF" width="32" height="32"> Tech Stack
+##  <img src="https://64.media.tumblr.com/bd172c9b6928e5b148be37d5a13e739a/tumblr_oewz56k4d21tgk8beo1_400.gif" alt="Intro GIF" width="42" height="42"> Tech Stack
 
 Here are some of the technologies and tools I work with:
 
