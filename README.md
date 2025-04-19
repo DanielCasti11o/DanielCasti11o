@@ -1,6 +1,7 @@
 # Hi there, I'm Daniel Castillo! 👋
 
-![Intro GIF](https://images.app.goo.gl/8V94zXWpQARSdXnx9)
+![Intro GIF](https://i.imgur.com/tu-gif.gif)
+![Intro GIF](https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2)
 
 ## 🚀 About Me
 
