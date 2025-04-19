@@ -29,7 +29,7 @@ I thrive on tackling challenging projects and learning through hands-on experien
 | [**FDF**](https://github.com/DanielCasti11o/FDF-42)           | Visualizes 3D models using projections and graphical algorithms like Bresenham's.          |
 | [**Push_swap**](https://github.com/DanielCasti11o/Push_Swap-42)    | Optimizes sorting algorithms for stacks, working with custom structures and operations.   |
 | [**Get_next_line**](https://github.com/DanielCasti11o/GNL) | Efficiently reads lines from a file, with dynamic memory management.                      |
-| **ft_printf**    | Reimplements the functionality of the standard `printf` function, handling conversions and flags. |
+| [**ft_printf**](https://github.com/DanielCasti11o/FT_PRINTF42)    | Reimplements the functionality of the standard `printf` function, handling conversions and flags. |
 
 Each project has helped me develop skills in C programming, algorithm optimization, and debugging.
 
