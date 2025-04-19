@@ -21,7 +21,7 @@ I thrive on tackling challenging projects and learning through hands-on experien
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="150">
 
-## 🏗️ 42 Projects
+##  Projects
 
 Some of the projects I've worked on so far include:
 
@@ -36,7 +36,7 @@ Each project has helped me develop skills in C programming, algorithm optimizati
 ---
 
 
-## 🛠️ Tech Stack
+##  <img src="https://64.media.tumblr.com/bd172c9b6928e5b148be37d5a13e739a/tumblr_oewz56k4d21tgk8beo1_400.gif" alt="Intro GIF" width="32" height="32"> Tech Stack
 
 Here are some of the technologies and tools I work with:
 
