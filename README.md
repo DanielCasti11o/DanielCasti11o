@@ -12,7 +12,7 @@ I thrive on tackling challenging projects and learning through hands-on experien
 ---
 
 
-## <img src="https://media.tenor.com/D6AiH4GkBHoAAAAi/gofourward-webdesign.gif" alt="Intro GIF" width="42" height="42"> Current Projects
+## <img src="https://media.tenor.com/wRGUxOHXVDkAAAAj/stars-star.gif" alt="Intro GIF" width="42" height="42"> Current Projects
 
 - **Philosophers**: Exploring concurrency and synchronization in C.
 - **Minishell**: Building a simple shell with command execution and pipes.
