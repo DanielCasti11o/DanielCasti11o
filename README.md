@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel Castillo! 👋
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="150">
+![Intro GIF](https://images.app.goo.gl/8V94zXWpQARSdXnx9)
 
 ## 🚀 About Me
 
@@ -16,6 +16,8 @@ I thrive on tackling challenging projects and learning through hands-on experien
 - **Minishell**: Building a simple shell with command execution and pipes.
 
 ---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="150">
 
 ## 🏗️ 42 Projects
 
