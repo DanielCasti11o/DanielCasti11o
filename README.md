@@ -19,9 +19,7 @@ I thrive on tackling challenging projects and learning through hands-on experien
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="150">
-
-##  Projects
+## <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Logo" width="150"> Projects
 
 Some of the projects I've worked on so far include:
 
