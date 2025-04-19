@@ -26,7 +26,7 @@ I thrive on tackling challenging projects and learning through hands-on experien
 | **Project**      | **Description**                                                                          |
 |------------------|------------------------------------------------------------------------------------------|
 | **Pipex**        | Simulates the behavior of pipes in a shell, managing input and output between processes.  |
-| **FDF**          | Visualizes 3D models using projections and graphical algorithms like Bresenham's.          |
+| [**FDF**](https://github.com/DanielCasti11o/FDF-42)           | Visualizes 3D models using projections and graphical algorithms like Bresenham's.          |
 | **Push_swap**    | Optimizes sorting algorithms for stacks, working with custom structures and operations.   |
 | **Get_next_line**| Efficiently reads lines from a file, with dynamic memory management.                      |
 | **ft_printf**    | Reimplements the functionality of the standard `printf` function, handling conversions and flags. |
