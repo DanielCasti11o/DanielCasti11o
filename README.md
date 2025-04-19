@@ -23,15 +23,13 @@ I thrive on tackling challenging projects and learning through hands-on experien
 
 ## Some of the Projects I've Worked On So Far
 
-# Mis Proyectos
-
-| **Proyecto**     | **Descripción**                                                                          |
+| **Project**      | **Description**                                                                          |
 |------------------|------------------------------------------------------------------------------------------|
-| **Pipex**        | Simula el comportamiento de los pipes en un shell, gestionando la entrada y salida entre procesos. |
-| **FDF**          | Visualiza modelos en 3D utilizando proyecciones y algoritmos gráficos como el de Bresenham. |
-| **Push_swap**    | Optimiza algoritmos de ordenación para stacks, trabajando con estructuras y operaciones personalizadas. |
-| **Get_next_line**| Permite leer líneas de un archivo de forma eficiente, con manejo dinámico de memoria.       |
-| **ft_printf**    | Reimplementa la funcionalidad de la función estándar `printf`, gestionando conversiones y flags. |
+| **Pipex**        | Simulates the behavior of pipes in a shell, managing input and output between processes.  |
+| **FDF**          | Visualizes 3D models using projections and graphical algorithms like Bresenham's.          |
+| **Push_swap**    | Optimizes sorting algorithms for stacks, working with custom structures and operations.   |
+| **Get_next_line**| Efficiently reads lines from a file, with dynamic memory management.                      |
+| **ft_printf**    | Reimplements the functionality of the standard `printf` function, handling conversions and flags. |
 
 Each project has helped me develop skills in C programming, algorithm optimization, and debugging.
 
