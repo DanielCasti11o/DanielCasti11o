@@ -7,7 +7,7 @@
 
 Welcome to my GitHub! I'm a student at **42**, an innovative programming school where creativity, collaboration, and problem-solving take the front seat. My GitHub username is **DanielCasti11o**, and my 42 login is **dacastil**.
 
-I thrive on tackling challenging projects and learning through hands-on experience. Currently, I'm collaborating with [sbolivar](https://github.com/s-bolivar) on exciting projects like **Philosophers** and **Minishell**. Previously, I worked on **FDF** and **Pipex**, exploring computer graphics and system-level programming.
+I thrive on tackling challenging projects and learning through hands-on experience. Currently, I'm collaborating with [Eltitoyisus](https://github.com/eltitoyisus) on exciting projects like **Philosophers** and **Minishell**. Previously, I worked on **FDF** and **Pipex**, exploring computer graphics and system-level programming.
 
 ---
 
