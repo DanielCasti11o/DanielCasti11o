@@ -57,7 +57,8 @@ Here are some of the technologies and tools I work with:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DanielCasti11o&theme=radical&border_radius=10)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCasti11o&layout=compact&theme=radical)](https://github.com/DanielCasti11o)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCasti11o&layout=compact&theme=radical)](https://github.com/DanielCasti11o)
+
 
 ---
 
