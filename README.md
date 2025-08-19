@@ -59,9 +59,6 @@ Here are some of the technologies and tools I work with:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCasti11o&layout=compact&theme=radical)](https://github.com/DanielCasti11o)
 
-![C++ progress](https://img.shields.io/badge/C++-Module_03-yellow)
-![Networking](https://img.shields.io/badge/Networking-in_progress-blue)
-
 ---
 
 Thanks for visiting! Let's build something amazing together. 🚀
