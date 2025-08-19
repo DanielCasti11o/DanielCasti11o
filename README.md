@@ -30,6 +30,11 @@ I thrive on tackling challenging projects and learning through hands-on experien
 | [**Push_swap**](https://github.com/DanielCasti11o/Push_Swap-42)    | Optimizes sorting algorithms for stacks, working with custom structures and operations.   |
 | [**Get_next_line**](https://github.com/DanielCasti11o/GNL) | Efficiently reads lines from a file, with dynamic memory management.                      |
 | [**ft_printf**](https://github.com/DanielCasti11o/FT_PRINTF42)    | Reimplements the functionality of the standard `printf` function, handling conversions and flags. |
+| [**Minishell**](https://github.com/eltitoyisus/mini) | Builds a simplified Unix shell, handling commands, pipes, redirections, and environment variables. |
+| [**Philosophers**](https://github.com/DanielCasti11o/Philosophers_42) | Simulates the dining philosophers problem, managing threads and synchronization. |
+| [**NetPractice**](https://github.com/DanielCasti11o/Net_practice) | Networking exercises to understand IP addressing, subnetting, and routing. |
+| **CPP Modules** | Collection of projects introducing C++ concepts such as OOP, operator overloading, inheritance, polymorphism, etc. <br> • [**Module 00**](https://github.com/DanielCasti11o/CPP-Modules/tree/main/CPP_Module00) <br> • [**Module 01**](https://github.com/DanielCasti11o/CPP-Modules/tree/main/CPP_Module01) <br> • [**Module 02**]([LINK_AQUI](https://github.com/DanielCasti11o/CPP-Modules/tree/main/CPP_Module02)) <br> • [**Module 03**]([(https://github.com/DanielCasti11o/CPP-Modules/tree/main/CPP_Module03)) <br> • [**Module 04 not finished**]() <br> • [**Module 05 not finished**]() <br> • [**Module 06 not finished**]() <br> • [**Module 07 not finished**]() <br> • [**Module 08 not finished**]() |
+
 
 Each project has helped me develop skills in C programming, algorithm optimization, and debugging.
 
