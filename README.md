@@ -14,8 +14,8 @@ I thrive on tackling challenging projects and learning through hands-on experien
 
 ## <img src="https://media.tenor.com/wRGUxOHXVDkAAAAj/stars-star.gif" alt="Intro GIF" width="32" height="32">     Current Projects
 
-- **Philosophers**: Exploring concurrency and synchronization in C.
-- **Minishell**: Building a simple shell with command execution and pipes.
+- **CPP Modules**: Object-Oriented Programming in C++ (currently progressing through Module 03).  
+- **Cub3D**: A 3D game engine using raycasting and MiniLibX, inspired by classic Wolfenstein 3D.
 
 ---
 
