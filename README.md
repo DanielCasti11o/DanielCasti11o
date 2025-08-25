@@ -5,7 +5,7 @@
 ## Tech tools
 
 
-[![Tech & Tools](https://skillicons.dev/icons?i=html,c,cpp,git,vscode,vim,bash,docker,linux,github,vercel#gh-dark-mode-only)](https://skillicons.dev)
+[![Tech & Tools](https://skillicons.dev/icons?i=c,cpp,git,vscode,vim,bash,docker,linux,github,vercel#gh-dark-mode-only)](https://skillicons.dev)
 
 
 
