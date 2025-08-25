@@ -50,7 +50,7 @@ Here are some of the technologies and tools I work with:
 ## Tech tools
 
 
-[![Tech & Tools](https://skillicons.dev/icons?i=c,cpp,git,vscode,vim,bash,docker,linux,github#gh-dark-mode-only)](https://skillicons.dev)
+[![Tech & Tools](https://skillicons.dev/icons?i=c,cpp,git,vscode,vim,bash,docker,linux,github,ubuntu#gh-dark-mode-only)](https://skillicons.dev)
 
 ---
 
