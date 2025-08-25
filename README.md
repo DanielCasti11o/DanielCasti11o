@@ -54,16 +54,6 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 📊 GitHub Stats & Progress
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCasti11o&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DanielCasti11o&theme=radical&border_radius=10)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCasti11o&layout=compact&theme=radical)](https://github.com/DanielCasti11o)
-
----
-
 ## Contribution Graph
 
 <picture>
