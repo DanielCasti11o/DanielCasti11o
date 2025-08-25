@@ -2,13 +2,6 @@
 
 ![Intro GIF](https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b95234sl4d1c4kmzgrv4qfh5i2owp53tvlvo8xr2l2i7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
 
-## Tech tools
-
-
-[![Tech & Tools](https://skillicons.dev/icons?i=c,cpp,git,vscode,vim,bash,docker,linux,github#gh-dark-mode-only)](https://skillicons.dev)
-
-
-
 ## <img src="https://media.tenor.com/D6AiH4GkBHoAAAAi/gofourward-webdesign.gif" alt="Intro GIF" width="42" height="42"> About Me
 
 Welcome to my GitHub! I'm a student at **42**, an innovative programming school where creativity, collaboration, and problem-solving take the front seat. My GitHub username is **DanielCasti11o**, and my 42 login is **dacastil**.
@@ -53,6 +46,11 @@ Here are some of the technologies and tools I work with:
 - **Libraries & Frameworks**: Libft (custom C library from 42), MiniLibX  
 - **Concepts**: Algorithms, Data Structures, Networking (subnetting & routing basics from NetPractice), Concurrency & Synchronization  
 - **Tools**: Git, VSCode, Valgrind, Makefile  
+
+## Tech tools
+
+
+[![Tech & Tools](https://skillicons.dev/icons?i=c,cpp,git,vscode,vim,bash,docker,linux,github#gh-dark-mode-only)](https://skillicons.dev)
 
 ---
 
