@@ -60,5 +60,13 @@ Here are some of the technologies and tools I work with:
 
 ---
 
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcasti11o/danielcasti11o/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcasti11o/danielcasti11o/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danielcasti11o/danielcasti11o/output/github-contribution-grid-snake.svg">
+</picture>
+
 Thanks for visiting! Let's build something amazing together. 🚀
 
