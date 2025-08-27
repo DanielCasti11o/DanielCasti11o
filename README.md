@@ -42,7 +42,7 @@ Each project has helped me develop skills in C programming, algorithm optimizati
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: C, C++  
+- **Languages**: C, C++, Python
 - **Libraries & Frameworks**: Libft (custom C library from 42), MiniLibX  
 - **Concepts**: Algorithms, Data Structures, Networking (subnetting & routing basics from NetPractice), Concurrency & Synchronization  
 - **Tools**: Git, VSCode, Valgrind, Makefile  
