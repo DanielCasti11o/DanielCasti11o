@@ -4,8 +4,9 @@
 
 I am currently taking an AWS Cloud course; you can see my notes here (in Spanish). 
 
-[**AWS Cloud Practitioner / Notion**](https://github.com/DanielCasti11o/PIPEX_42)
+[**AWS Cloud Practitioner / Notion**] (https://www.notion.so/danielcasti11o/AWS-Cloud-Practitioner-273fe243807880f9815ef45c75eb4f43)
 
+![Intro GIF](https://cdn.hashnode.com/res/hashnode/image/upload/v1660948694974/iVyOjIMeP.gif)
 
 ## <img src="https://media.tenor.com/D6AiH4GkBHoAAAAi/gofourward-webdesign.gif" alt="Intro GIF" width="42" height="42"> About Me
 
