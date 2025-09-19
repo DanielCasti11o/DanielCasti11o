@@ -3,6 +3,7 @@
 ![Intro GIF](https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=6c09b95234sl4d1c4kmzgrv4qfh5i2owp53tvlvo8xr2l2i7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
 
 I am currently taking an AWS Cloud course; you can see my notes here (in Spanish). 
+
 [**AWS Cloud Practitioner / Notion**](https://github.com/DanielCasti11o/PIPEX_42)
 
 
