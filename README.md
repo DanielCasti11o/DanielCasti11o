@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a student at **42**, an innovative programming school 
 
 ## <img src="https://media.tenor.com/wRGUxOHXVDkAAAAj/stars-star.gif" alt="Intro GIF" width="32" height="32">     Current Projects
 
-- **CPP Modules**: Object-Oriented Programming in C++ (currently progressing through Module 03).  
+- **CPP Modules**: Object-Oriented Programming in C++ (currently progressing through Module 05).  
 - **Cub3D**: A 3D game engine using raycasting and MiniLibX, inspired by classic Wolfenstein 3D.
 
 ---
