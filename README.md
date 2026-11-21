@@ -4,7 +4,7 @@ Systems programming student at **42**. Most of my work is low-level C/C++ on Lin
 process and memory management, concurrency, graphics without engines, and containerized infrastructure.
 
 **Certifications**
-- ✅ **AWS Certified Cloud Practitioner** ([study notes, ES](https://www.notion.so/danielcasti11o/AWS-Cloud-Practitioner-273fe243807880f9815ef45c75eb4f43))
+- ✅ **AWS Certified Cloud Practitioner**
 - ✅ **AWS re/Start** program: Linux, networking, security, Python and core AWS services (EC2, S3, VPC, IAM, RDS)
 - ⏳ **Cisco Certified Support Technician (CCST) Cybersecurity**: in progress
 
