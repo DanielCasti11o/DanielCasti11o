@@ -1,20 +1,49 @@
-# Daniel Castillo — `dacastil` @ 42
+<div align="center">
+
+# Daniel Castillo
+
+<a href="https://github.com/DanielCasti11o">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+programming+%C2%B7+C+%2F+C%2B%2B+%C2%B7+Linux;Backend+%26+auth+%C2%B7+Node.js+%C2%B7+PostgreSQL;Docker+%C2%B7+AWS+%C2%B7+Cybersecurity" alt="Systems programming · Backend · Docker · AWS · Cybersecurity">
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/42-dacastil-000000?style=for-the-badge" alt="42 dacastil">
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge" alt="AWS Certified Cloud Practitioner">
+<br>
+<img src="https://img.shields.io/badge/AWS-re%2FStart-232F3E?style=for-the-badge" alt="AWS re/Start">
+<img src="https://img.shields.io/badge/Cisco_CCST-Cybersecurity_·_in_progress-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCST Cybersecurity (in progress)">
+
+</div>
+
+---
 
 Systems programming student at **42**. Most of my work is low-level C/C++ on Linux:
 process and memory management, concurrency, graphics without engines, and containerized infrastructure.
+Lately also backend/auth services and cloud: **AWS Certified Cloud Practitioner**, **AWS re/Start** graduate
+(Linux, networking, security, Python, EC2/S3/VPC/IAM/RDS), currently preparing **Cisco CCST Cybersecurity**.
 
-**Certifications**
-- ✅ **AWS Certified Cloud Practitioner**
-- ✅ **AWS re/Start** program: Linux, networking, security, Python and core AWS services (EC2, S3, VPC, IAM, RDS)
-- ⏳ **Cisco Certified Support Technician (CCST) Cybersecurity**: in progress
+## Tech stack
+
+<div align="center">
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,ts,html,css,solidity&theme=dark" alt="C, C++, Python, Bash, JavaScript, TypeScript, HTML, CSS, Solidity">
+
+**Backend & web**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind,jquery,angular,postgres,mysql,prisma&theme=dark" alt="Node.js, Express, React, Tailwind, jQuery, Angular, PostgreSQL, MySQL, Prisma">
+
+**Infra & cloud**<br>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,wordpress,aws,grafana,prometheus,githubactions&theme=dark" alt="Linux, Ubuntu, Docker, NGINX, WordPress, AWS, Grafana, Prometheus, GitHub Actions">
+
+**Tooling**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vim,vscode,notion&theme=dark" alt="Git, GitHub, Vim, VSCode, Notion">
+
+</div>
 
 ```
-languages   C · C++98 · Python · Bash · JavaScript
 systems     POSIX processes, pipes, signals, file descriptors, pthreads/mutexes
-graphics    MiniLibX, raycasting, Bresenham, isometric projection
-infra       Docker, Docker Compose, NGINX (TLS), MariaDB, PHP-FPM, Linux
-cloud       AWS (EC2, S3, VPC, IAM, RDS)
-tooling     Git, Make, GDB, Valgrind, Vim, VSCode
+graphics    MiniLibX, raycasting (DDA), Bresenham, isometric projection
+security    JWT, OAuth 2.0 (authorization code), bcrypt, TLS termination
+debugging   GDB, Valgrind, Make
 ```
 
 ---
