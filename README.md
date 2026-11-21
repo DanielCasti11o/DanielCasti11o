@@ -2,13 +2,18 @@
 
 Systems programming student at **42**. Most of my work is low-level C/C++ on Linux:
 process and memory management, concurrency, graphics without engines, and containerized infrastructure.
-Currently studying for **AWS Cloud Practitioner** ([notes, ES](https://www.notion.so/danielcasti11o/AWS-Cloud-Practitioner-273fe243807880f9815ef45c75eb4f43)).
+
+**Certifications**
+- ✅ **AWS Certified Cloud Practitioner** ([study notes, ES](https://www.notion.so/danielcasti11o/AWS-Cloud-Practitioner-273fe243807880f9815ef45c75eb4f43))
+- ✅ **AWS re/Start** program: Linux, networking, security, Python and core AWS services (EC2, S3, VPC, IAM, RDS)
+- ⏳ **Cisco Certified Support Technician (CCST) Cybersecurity**: in progress
 
 ```
 languages   C · C++98 · Python · Bash · JavaScript
 systems     POSIX processes, pipes, signals, file descriptors, pthreads/mutexes
 graphics    MiniLibX, raycasting, Bresenham, isometric projection
 infra       Docker, Docker Compose, NGINX (TLS), MariaDB, PHP-FPM, Linux
+cloud       AWS (EC2, S3, VPC, IAM, RDS)
 tooling     Git, Make, GDB, Valgrind, Vim, VSCode
 ```
 
