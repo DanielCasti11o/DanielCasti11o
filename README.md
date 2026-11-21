@@ -14,6 +14,31 @@ tooling     Git, Make, GDB, Valgrind, Vim, VSCode
 
 ---
 
+## Featured
+
+### [ft_transcendence — DeployHub](https://github.com/TranscendenceFortyTwo/transcendence) · 42 final project · team of 5
+Mini **PaaS**: connect a Git repo → clone → `docker build` → run container → stream logs/status over WebSockets.
+Microservice architecture on Docker Compose with PostgreSQL/Prisma, Traefik + ModSecurity (OWASP CRS), Prometheus/Grafana/cAdvisor.
+
+**My part — `auth-service`:** standalone Node.js / Express 5 service with Prisma on PostgreSQL.
+Local registration/login with bcrypt hashing and JWT issued in `httpOnly` cookies; OAuth 2.0 authorization-code flow
+for **Google, GitHub and 42 Intra**; auth module integrated into the main backend and wired into the Compose stack.
+
+### [GeoSignal](https://github.com/GeoSignalNASA/GeoSignal) · NASA Space Apps Challenge 2026 · *Dancing with the SARs*
+Post-wildfire debris-flow risk mapping from **NISAR L-band SAR** + DEM + rainfall. Case study: Calvos de Randín burn (Ourense, Sept 2026).
+Reproducible Python pipeline (AOI stack extraction, change detection, slope, basin delineation, flow-path tracing, risk index) feeding a static interactive StoryMap.
+
+**My part — `alerts/` module:** rain-alert engine in pure Python stdlib. Polls the Open-Meteo 3-day forecast over the burn scar,
+evaluates tiered thresholds (20/40/80 mm·24h, 10/20/40 mm·h), and delivers per-subscriber HTML reports and alerts via SMTP (cron-driven, dry-run by default).
+Subscriber store, CLI (`subscribe`, `check`, `run --send`…), `ThreadingHTTPServer` endpoint backing the StoryMap's alerts section, `unittest` suite.
+
+### [OverZenith](https://github.com/OverZenithTeam/OverZenith) · NASA Space Apps Challenge 2025
+Gamified web app for exploring NASA content from a simulated ISS Cupola. React + TypeScript + Tailwind, 3D Earth with `react-globe.gl`, XP/levels via React Context + `localStorage`.
+
+**My part:** interactive globe layer (geo-pinned info points and their data), quiz modal and asteroid content, Cupola view switching, team modal.
+
+---
+
 ## Projects
 
 ### Systems / Unix
