@@ -58,6 +58,14 @@ Microservice architecture on Docker Compose with PostgreSQL/Prisma, Traefik + Mo
 Local registration/login with bcrypt hashing and JWT issued in `httpOnly` cookies; OAuth 2.0 authorization-code flow
 for **Google, GitHub and 42 Intra**; auth module integrated into the main backend and wired into the Compose stack.
 
+### [Webserv](https://github.com/WebServerTeam/webserver) · 42 · team of 3
+HTTP/1.1 server from scratch in C++98: single non-blocking `poll()` loop over listening sockets, clients and CGI pipes;
+per-client state machine, chunked bodies, keep-alive, multi-port virtual servers, autoindex, uploads/DELETE, Python/Node.js CGI with timeout.
+
+**My part:** NGINX-style **config parser** (`server`/`location` blocks, longest-prefix routing data, `K/M/G` body-size limits, method whitelists, CGI mappings);
+**session layer** (`SessionManager`: in-memory users and sessions, random IDs with expiry, login/register/logout handlers,
+`Set-Cookie` builder with `HttpOnly`/`SameSite`/`Max-Age`); CGI/1.1 environment construction.
+
 ### [GeoSignal](https://github.com/GeoSignalNASA/GeoSignal) · NASA Space Apps Challenge 2026 · *Dancing with the SARs*
 Post-wildfire debris-flow risk mapping from **NISAR L-band SAR** + DEM + rainfall. Case study: Calvos de Randín burn (Ourense, Sept 2026).
 Reproducible Python pipeline (AOI stack extraction, change detection, slope, basin delineation, flow-path tracing, risk index) feeding a static interactive StoryMap.
